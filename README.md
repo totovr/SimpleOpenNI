@@ -2,7 +2,7 @@
 
 This is a library created by Max Rheiner and his Project: https://code.google.com/archive/p/simple-openni/
 
-# You can find the SimpleOpenni repository updated in this branch:
+# You can find the SimpleOpenni repository updated and the instructions to use it in this branch:
 
     https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.6
 

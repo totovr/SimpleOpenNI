@@ -1,6 +1,6 @@
 # Processing_Kinect
 
-1.- Download SimpleOpenni folders
+1.- Download SimpleOpenni folder
 
 2.- Select the folder SimpleOpenNI and choose Edit > Copy
     Go to the Finder

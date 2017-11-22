@@ -11,12 +11,12 @@
 
 4. Test the Kinect Setup
 
-⋅⋅⋅Connect your Xbox Kinect motion sensor to your computer in an available USB port. Ensure the sensor is connected
-⋅⋅⋅to a power source.
+...Connect your Xbox Kinect motion sensor to your computer in an available USB port. Ensure the sensor is connected
+...to a power source.
 
-⋅⋅⋅Open the Processing application.
+...Open the Processing application.
 
-⋅⋅⋅Copy and run:
+...Copy and run:
 
     https://github.com/totovr/Processing/tree/master/Kinect/Angle_Tracking_KV1_ProssingV2.2.1_Arduino_Demo
 

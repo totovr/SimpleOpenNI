@@ -8,7 +8,7 @@ This is a library created by Max Rheiner and his Project: https://code.google.co
 
 ### SimpleOpenni repository updated and the instructions to use it for Processing 2.2.1 in this branch:
 
-*  [SimpleOpenni for Processing 3](https://github.com/totovr/SimpleOpenni/tree/Processing_2.2.1).
+*  [SimpleOpenni for Processing 2](https://github.com/totovr/SimpleOpenni/tree/Processing_2.2.1).
 
 ### Examples 
 

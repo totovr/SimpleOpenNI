@@ -11,3 +11,5 @@ also I copied /libraries/SimpleOpenNI/library/osx/OpenNI2/Drivers/libfreenect.0.
 /libraries/SimpleOpenNI/library/osx/OpenNI2/Drivers/libfreenect.0.1.2.dylib
 
 from the SimpleOpenNI that works in processing2
+
+Antonio Vega

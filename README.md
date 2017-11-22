@@ -4,7 +4,7 @@ This is a library was created by Max Rheiner and his Project:
 
 * [Link](https://code.google.com/archive/p/simple-openni/)
 
-I Update the driver to can use this library with Processing 3 and 2
+I update the driver to can use this library with Processing 3 and 2
 
 ## Getting Started
 

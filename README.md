@@ -137,7 +137,7 @@ Antonio Vega Ramirez:
 
 ## License
 
-This project is licensed under CC License - see the [LICENSE.md](https://creativecommons.org/licenses/by/4.0/) file for details
+This project is licensed under The MIT License (MIT), see the [LICENSE.md](https://github.com/totovr/SimpleOpenni/blob/master/LICENSE.md) file for details
 
 ### The instructions to Setup the Kinect are written for Mac OS High Sierra users.
 

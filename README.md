@@ -6,6 +6,8 @@ This is a library was created by Max Rheiner and his Project:
 
 I update the driver to can use this library with Processing 3 and 2
 
+### The instructions to Setup the Kinect are written for Mac OS High Sierra users.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -139,6 +141,7 @@ Antonio Vega Ramirez:
 
 This project is licensed under The MIT License (MIT) - see the [LICENSE.md](https://github.com/totovr/SimpleOpenni/blob/master/LICENSE.md) file for details
 
-### The instructions to Setup the Kinect are written for Mac OS High Sierra users.
-
 ![Deep](https://github.com/totovr/Processing/blob/master/Images/deep.png)
+
+![Skeleton_tracking](https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.png)
+

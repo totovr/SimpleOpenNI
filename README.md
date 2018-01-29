@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 * A computer with OSX
 * Kinect V1
 
-Alternative:
+### Alternative:
 
 * Arduino IDE
 * Arduino board
@@ -41,13 +41,17 @@ For OSX you just need to unzip the folder and paste the App in the applications 
 
 Once you have downloaded the library unzip it and follow the next steps:
 
-1. Download SimpleOpenni folder
-
-2. Select the folder SimpleOpenNI and choose Edit > Copy
-   Go to the Finder
-   Choose Go > Go to Folder... and enter “~/Documents/Processing/libraries/" without
-   the quotation marks. Click OK..
-   Press Cmd-V or choose Edit > Paste menu to put "SimpleOpenNI" in this location.
+1. Select the folder SimpleOpenNI and choose:
+    
+       Edit > Copy
+    
+2. Go to the Finder
+   
+       Choose Go > Go to Folder... and enter “~/Documents/Processing/libraries/" 
+    
+ **Without the quotation marks. Click OK.**
+  
+3. Press **Cmd-V** or choose Edit > Paste menu to put "SimpleOpenNI" in this location.
 
 
 ## Test a program sample:

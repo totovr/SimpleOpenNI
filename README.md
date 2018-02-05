@@ -20,6 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Alternative:
 
+* [Atom](https://atom.io/)
 * Arduino IDE
 * Arduino board
 
@@ -119,10 +120,13 @@ This is one example of how to activate the deep camera of the Kinect.
 ## Also you can use the next IDE to build programs:
 
 * [Atom](https://atom.io/)
+* Open package manager -> Install new Package -> Processing
+
+ ***Use this package to run Processing Sketch inside Atom***
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/totovr/Processing/blob/master/CONTRIBUTING.md) for details of the code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/totovr/SimpleOpenni/blob/master/CONTRIBUTING.md) for details of the code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 

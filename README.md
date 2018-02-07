@@ -1,8 +1,6 @@
 # SimpleOpenni
 
-This is a library was created by Max Rheiner and his Project:
-
-* [Link](https://code.google.com/archive/p/simple-openni/)
+![](https://media.giphy.com/media/3ohjVbTKhriAT04ivS/giphy.gif)
 
 I update the driver to can use this library with Processing 3 and 2
 
@@ -153,4 +151,8 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 
 ![Skeleton_tracking](https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.png)
 
-[![Skeleton_Tracking_Video](https://www.youtube.com/watch?v=5n5qqz3RfPM)](https://www.youtube.com/watch?v=5n5qqz3RfPM)
+* [Youtube Video](https://www.youtube.com/watch?v=5n5qqz3RfPM))
+
+This is a library was created by Max Rheiner and his Project:
+
+* [Link](https://code.google.com/archive/p/simple-openni/)

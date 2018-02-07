@@ -1,6 +1,6 @@
 # SimpleOpenni
 
-![](https://media.giphy.com/media/3ohjVbTKhriAT04ivS/giphy.gif)
+<img src="https://github.com/totovr/SimpleOpenni/blob/master/Images/200w_d.gif" width="600">
 
 I update the driver to can use this library with Processing 3 and 2
 
@@ -147,9 +147,8 @@ Antonio Vega Ramirez:
 
 This project is licensed under The MIT License (MIT) - see the [LICENSE.md](https://github.com/totovr/SimpleOpenni/blob/master/LICENSE.md) file for details
 
-![Deep](https://github.com/totovr/Processing/blob/master/Images/deep.png)
-
-![Skeleton_tracking](https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.png)
+<img src="https://github.com/totovr/Processing/blob/master/Images/deep.png" width="600">
+<img src="https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.png" width="600">
 
 * [Youtube Video](https://www.youtube.com/watch?v=5n5qqz3RfPM))
 

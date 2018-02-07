@@ -43,15 +43,15 @@ For OSX you just need to unzip the folder and paste the App in the applications 
 Once you have downloaded the library unzip it and follow the next steps:
 
 1. Select the folder SimpleOpenNI and choose:
-    
+
        Edit > Copy
-    
+
 2. Go to the Finder
-   
-       Choose Go > Go to Folder... and enter “~/Documents/Processing/libraries/" 
-    
+
+       Choose Go > Go to Folder... and enter “~/Documents/Processing/libraries/"
+
  **Without the quotation marks. Click OK.**
-  
+
 3. Press **Cmd-V** or choose Edit > Paste menu to put "SimpleOpenNI" in this location.
 
 
@@ -153,3 +153,4 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 
 ![Skeleton_tracking](https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.png)
 
+[![Skeleton_Tracking_Video](https://www.youtube.com/watch?v=5n5qqz3RfPM)](https://www.youtube.com/watch?v=5n5qqz3RfPM)

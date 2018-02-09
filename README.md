@@ -147,8 +147,8 @@ Antonio Vega Ramirez:
 
 This project is licensed under The MIT License (MIT) - see the [LICENSE.md](https://github.com/totovr/SimpleOpenni/blob/master/LICENSE.md) file for details
 
-<img src="https://github.com/totovr/Processing/blob/master/Images/deep.png" width="600">
-<img src="https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.png" width="600">
+<img src="https://github.com/totovr/Processing/blob/master/Images/deep.PNG" width="600">
+<img src="https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.PNG" width="600">
 
 * [Youtube Video](https://www.youtube.com/watch?v=5n5qqz3RfPM)
 

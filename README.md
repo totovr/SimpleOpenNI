@@ -1,6 +1,6 @@
 # SimpleOpenni
 
-<img src="https://github.com/totovr/SimpleOpenni/blob/master/Images/200w_d.gif" width="600">
+<img src="https://github.com/totovr/SimpleOpenni/blob/master/Images/200w_d.gif" width="900">
 
 I update the driver to can use this library with Processing 3 and 2
 
@@ -154,4 +154,4 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 
 This is a library was created by Max Rheiner and his Project:
 
-* [Link](https://code.google.com/archive/p/simple-openni/)
+* [Link](https://code.google.com/archive/p/simple-openni/

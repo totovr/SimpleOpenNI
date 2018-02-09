@@ -115,7 +115,7 @@ This is one example of how to activate the deep camera of the Kinect.
 
 [Kinect V1 Processing 2](https://github.com/totovr/Processing/tree/Processing-2.2.1/Processing%202.2.1/Kinect).
 
-## Also you can use the next IDE to build programs:
+## Also you can use the next text editor to build programs:
 
 * [Atom](https://atom.io/)
 * Open package manager -> Install new Package -> Processing
@@ -150,8 +150,8 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 <img src="https://github.com/totovr/Processing/blob/master/Images/deep.png" width="600">
 <img src="https://github.com/totovr/Processing/blob/master/Images/Skeleton_Tracking.png" width="600">
 
-* [Youtube Video](https://www.youtube.com/watch?v=5n5qqz3RfPM))
+* [Youtube Video](https://www.youtube.com/watch?v=5n5qqz3RfPM)
 
 This is a library was created by Max Rheiner and his Project:
 
-* [Link](https://code.google.com/archive/p/simple-openni/
+* [Link](https://code.google.com/archive/p/simple-openni/0

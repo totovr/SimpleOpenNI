@@ -2,11 +2,27 @@
 
 1. Download SimpleOpenni folder
 
-2. Select the folder SimpleOpenNI and choose Edit > Copy
+2. Select the folder SimpleOpenNI and choose 
+
+         Edit > Copy
+      
    Go to the Finder
-   Choose Go > Go to Folder... and enter “~/Documents/Processing/libraries/" without
-   the quotation marks. Click OK..
-   Press Cmd-V or choose Edit > Paste menu to put "SimpleOpenNI" in this location.
+   
+         Choose Go > Go to Folder... 
+      
+   and enter 
+   
+         “~/Documents/Processing/libraries/" 
+      
+   without the quotation marks. 
+      
+         Click OK..
+      
+   Press Cmd-V or choose 
+   
+         Edit > Paste menu 
+   
+   To put "SimpleOpenNI" in this location.
 
 4. Test the Kinect Setup
 

@@ -1,6 +1,6 @@
 # SimpleOpenni
 
-<img src="Images/200w_d.gif" width="900">
+<img src="https://github.com/totovr/SimpleOpenni/blob/master/Images/200w_d.gif" width="900">
 
 I update the driver to can use this library with Processing 3 and 2
 

@@ -1,6 +1,6 @@
 # SimpleOpenni
 
-<img src="https://github.com/totovr/SimpleOpenni/blob/master/Images/200w_d.gif" width="900">
+<img src="Assets/200w_d.gif" width="900">
 
 I update the driver to can use this library with Processing 3 and 2
 
@@ -149,8 +149,8 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 
 ## Images
 
-<img src="https://github.com/totovr/SimpleOpenni/blob/master/Images/Skeleton_Tracking.png" width="600">
-<img src="https://github.com/totovr/SimpleOpenni/blob/master/Images/deep.png" width="600">
+<img src="Assets/Skeleton_Tracking.png" width="600">
+<img src="Assets/deep.png" width="600">
 
 ## Video
 

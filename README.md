@@ -160,6 +160,6 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 
 ## Reference
 
-This is a library was created by Max Rheiner and his Project:
+This library was created by Max Rheiner and his Project:
 
 * [Link](https://code.google.com/archive/p/simple-openni/0)

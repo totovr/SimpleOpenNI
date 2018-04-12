@@ -2,7 +2,7 @@
 
 <img src="Assets/200w_d.gif" width="900">
 
-I update the driver to can use this library with Processing 3 and 2
+I update the driver to can use this library with Processing 3 and 2 with Kinect V1 and V2
 
 ### The instructions to Setup the Kinect are written for Mac OS High Sierra users.
 
@@ -15,6 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Processing IDE
 * A computer with OSX
 * Kinect V1
+* Kinect V2
 
 ### Alternative:
 

@@ -1,6 +1,12 @@
 # SimpleOpenni
 
+<img src="Assets/threshold.gif" width="900">
+
+   > Example of skeleton tracking using KinectV2
+
 <img src="Assets/200w_d.gif" width="900">
+    
+   > Example of skeleton tracking using KinectV1
 
 I update the driver to can use this library with Processing 3 and 2 with Kinect V1 and V2
 

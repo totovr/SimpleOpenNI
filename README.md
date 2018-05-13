@@ -10,6 +10,8 @@
 
 I update the driver to can use this library with Processing 3 and 2 with Kinect V1 and V2
 
+> Kinect V2 just works with USB 3.0
+
 ### The instructions to Setup the Kinect are written for Mac OS High Sierra users.
 
 ## Getting Started

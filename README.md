@@ -2,10 +2,12 @@
 
 <img src="Assets/threshold.gif" width="900">
 
+<img src="Assets/Kinect_V2_Tracking.gif" width="900">
+
    > Example of skeleton tracking using KinectV2
 
 <img src="Assets/200w_d.gif" width="900">
-    
+
    > Example of skeleton tracking using KinectV1
 
 I update the driver to can use this library with Processing 3 and 2 with Kinect V1 and V2
@@ -46,11 +48,11 @@ For OSX you just need to unzip the folder and paste the App in the applications 
 * Repository for Processing V3.3.6:
 
   [SimpleOpenni for Processing 3.3.6](https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.6).
-  
+
 * Repository for Processing V3.3.7:
 
   [SimpleOpenni for Processing 3.3.7](https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.7).
-  
+
 > The library has compatibility with Kinect V2 just in Processing V3.3.7 V3.3.6
 
 Once you have downloaded the library unzip it and follow the next steps:
@@ -122,13 +124,17 @@ This is one example of how to activate the deep camera of the Kinect.
 
 ## For more examples check the next links:
 
-*  For Processing 3.3.6 check this branch:
+* For Processing 3.3.7 check this branch:
 
-[Kinect V1 Processing 3](https://github.com/totovr/Processing/tree/Processing-3.3.6/Kinect/Kinect_SimpleOpenni).
+[Kinect V1 and V2 Processing 3](https://github.com/totovr/Processing/tree/Processing-3.3.7).
+
+* For Processing 3.3.6 check this branch:
+
+[Kinect V1 and V2 Processing 3](https://github.com/totovr/Processing/tree/Processing-3.3.6).
 
 * For Processing 2.2.1 check this branch:
 
-[Kinect V1 Processing 2](https://github.com/totovr/Processing/tree/Processing-2.2.1/Processing%202.2.1/Kinect).
+[Kinect V1 Processing 2](https://github.com/totovr/Processing/tree/Processing-2.2.1/Kinect).
 
 ## Also you can use the next text editor to build programs:
 

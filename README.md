@@ -1,5 +1,7 @@
 # SimpleOpenni
 
+### Use Kinect 1 or 2 sensors with Processing 2 or 3
+
 <img src="Assets/threshold.gif" width="900">
 
 <img src="Assets/Kinect_V2_Tracking.gif" width="900">

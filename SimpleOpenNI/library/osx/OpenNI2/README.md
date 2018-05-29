@@ -9,4 +9,5 @@ to the same folder in the wexstorm project. Also I copied /libraries/SimpleOpenN
 /libraries/SimpleOpenNI/library/osx/OpenNI2/Drivers/libfreenect.0.1.2.dylib from the SimpleOpenNI that works in processing2
 
 Antonio Vega Ramirez
-Biological Systems Engineering Lab
+Biological Systems Engineering Lab Hiroshima University
+

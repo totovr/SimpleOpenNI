@@ -1,4 +1,4 @@
-# SimpleOpenni
+# SimpleOpenNI
 
 ### Use Kinect 1 or 2 sensors with Processing 2 or 3
 

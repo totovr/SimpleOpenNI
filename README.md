@@ -1,6 +1,6 @@
 # SimpleOpenNI
 
-### Use Kinect 1 or 2 sensors with Processing 2 or 3
+### Use Kinect 1 or 2 sensors with Processing 3
 
 > The most updated repository of SimpleOpenni is in Gitlab, here is the [link](https://gitlab.com/totovr/SimpleOpenni)
 

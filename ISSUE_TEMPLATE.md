@@ -24,3 +24,4 @@ You might select multiple topics, delete the rest:
 
 ### Your System Configuration
 **Operating system**:
+**Version of Kinect**:

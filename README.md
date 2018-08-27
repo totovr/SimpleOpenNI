@@ -126,6 +126,10 @@ This is one example of how to activate the deep camera of the Kinect.
 
 ## For more examples check the next links:
 
+* For Processing 3.4 check this branch:
+
+[Kinect V1 and V2 Processing 3](https://github.com/totovr/SimpleOpenNI/tree/Processing_3.4).
+
 * For Processing 3.3.7 check this branch:
 
 [Kinect V1 and V2 Processing 3](https://github.com/totovr/Processing/tree/Processing-3.3.7).

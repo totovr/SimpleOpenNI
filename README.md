@@ -59,7 +59,7 @@ For OSX you just need to unzip the folder and paste the App in the applications 
 
   [SimpleOpenni for Processing 2](https://github.com/totovr/SimpleOpenni/tree/Processing_2.2.1).
 
-> The library has compatibility with Kinect V2 just in Processing V3.3.7 V3.3.6
+> The library has compatibility with Kinect V2 just in Processing V3.4, V3.3.7 and V3.3.6
 
 Once you have downloaded the library unzip it and follow the next steps:
 

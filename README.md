@@ -43,17 +43,21 @@ Install the last stable version of Processing IDE, you can download it from this
 
 For OSX you just need to unzip the folder and paste the App in the applications folder.
 
-* Repository for Processing V2.2.1:
+* Repository for Processing V3.4:
 
-  [SimpleOpenni for Processing 2](https://github.com/totovr/SimpleOpenni/tree/Processing_2.2.1).
+  [SimpleOpenni for Processing 3.4](https://github.com/totovr/SimpleOpenni/tree/Processing_3.4).
+
+* Repository for Processing V3.3.7:
+
+  [SimpleOpenni for Processing 3.3.7](https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.7).
 
 * Repository for Processing V3.3.6:
 
   [SimpleOpenni for Processing 3.3.6](https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.6).
 
-* Repository for Processing V3.3.7:
+* Repository for Processing V2.2.1:
 
-  [SimpleOpenni for Processing 3.3.7](https://github.com/totovr/SimpleOpenni/tree/Processing_3.3.7).
+  [SimpleOpenni for Processing 2](https://github.com/totovr/SimpleOpenni/tree/Processing_2.2.1).
 
 > The library has compatibility with Kinect V2 just in Processing V3.3.7 V3.3.6
 
@@ -126,9 +130,7 @@ This is one example of how to activate the deep camera of the Kinect.
 
 ## For more examples check the next links:
 
-* For Processing 3.4 check this branch:
-
-[Kinect V1 and V2 Processing 3](https://github.com/totovr/SimpleOpenNI/tree/Processing_3.4).
+* For Processing 3.4 the examples are added directly in the library, the Remove_Background_RGB example just work with Kinect V1
 
 * For Processing 3.3.7 check this branch:
 

@@ -14,3 +14,7 @@ javac -cp /Applications/Processing/Processing3.app/Contents/Java/core.jar Simple
 mv SimpleOpenNI/*.class build/SimpleOpenNI/
 cd build
 jar cvfm ../SimpleOpenNI.jar manifest.txt SimpleOpenNI/*.class
+
+cd ..
+cp SimpleOpenNI.jar ../library
+cp SimpleOpenNI.jar $HOME/Development/Java/Processing3/libraries/SimpleOpenNI/library 

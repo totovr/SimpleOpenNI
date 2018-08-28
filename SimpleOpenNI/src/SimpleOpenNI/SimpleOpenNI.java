@@ -89,14 +89,17 @@ public class SimpleOpenNI extends ContextWrapper implements SimpleOpenNIConstant
             try
             {
                 //System.out.println("-- " + System.getProperty("user.dir"));
-                try
-                {
+                //try
+                //{
+                	// Editor lib path
                     System.load(nativLibPath + libName);
-                }
-                catch(UnsatisfiedLinkError e)
-                {
-                    System.load(System.getProperty("java.class.path").split(":")[0] + libName);
-                }
+                //}
+                //catch(UnsatisfiedLinkError e)
+                //{
+                	// Exported lib path
+                	//String newPath = System.getProperty("java.class.path").split(":")[0];
+                    //System.load(newPath + nativLibPath + libName);
+                //}
             }
             catch(UnsatisfiedLinkError e)
             {

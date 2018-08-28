@@ -95,7 +95,7 @@ public class SimpleOpenNI extends ContextWrapper implements SimpleOpenNIConstant
                 }
                 catch(UnsatisfiedLinkError e)
                 {
-                    System.load(System.getProperty("java.class.path").split(":")[0] + nativLibPath + libName);
+                    System.load(System.getProperty("java.class.path").split(":")[0] + libName);
                 }
             }
             catch(UnsatisfiedLinkError e)

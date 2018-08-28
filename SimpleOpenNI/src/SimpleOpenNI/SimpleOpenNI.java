@@ -29,7 +29,6 @@ import java.net.URL;
 
 public class SimpleOpenNI extends ContextWrapper implements SimpleOpenNIConstants
 {
-	    static String workingDir = System.getProperty("java.class.path").split(":")[0];
         static String nativDepLibPath = "";
         static String nativLibPath = "";
 
@@ -47,13 +46,13 @@ public class SimpleOpenNI extends ContextWrapper implements SimpleOpenNIConstant
                 if(archStr.indexOf("86") >= 0)
                 {    // 32bit
                     libName += "32.dll";
-                    nativLibPath = getLibraryPathWin() + workingDir + "/SimpleOpenNI/library/";
+                    nativLibPath = getLibraryPathWin() + "/SimpleOpenNI/library/";
                     nativDepLibPath = nativLibPath + "win32/";
                 }
 				else if(archStr.indexOf("64") >= 0)
                 {
 					libName += "64.dll";
-                    nativLibPath = getLibraryPathWin() + workingDir + "/SimpleOpenNI/library/";
+                    nativLibPath = getLibraryPathWin() + "/SimpleOpenNI/library/";
                     nativDepLibPath = nativLibPath + "win64/";
 				}
 				// load dependencies
@@ -71,7 +70,7 @@ public class SimpleOpenNI extends ContextWrapper implements SimpleOpenNIConstant
                 else if(archStr.indexOf("64") >= 0)
                 {
                     libName = "lib" + libName + "64.so";
-                    nativLibPath = getLibraryPathLinux() + workingDir + "/SimpleOpenNI/library/";
+                    nativLibPath = getLibraryPathLinux() + "/SimpleOpenNI/library/";
                     nativDepLibPath = nativLibPath + "linux64/";
                 }
 
@@ -81,7 +80,7 @@ public class SimpleOpenNI extends ContextWrapper implements SimpleOpenNIConstant
             {     // mac 
                 
                 libName = "lib" + libName + ".jnilib";
-                nativLibPath = getLibraryPathLinux() + workingDir + "/SimpleOpenNI/library/";
+                nativLibPath = getLibraryPathLinux() + "/SimpleOpenNI/library/";
                 nativDepLibPath = nativLibPath + "osx/";
                 
                 //System.out.println("nativDepLibPath = " + nativDepLibPath);
@@ -90,7 +89,14 @@ public class SimpleOpenNI extends ContextWrapper implements SimpleOpenNIConstant
             try
             {
                 //System.out.println("-- " + System.getProperty("user.dir"));
-                System.load(nativLibPath + libName);
+                try
+                {
+                    System.load(nativLibPath + libName);
+                }
+                catch(UnsatisfiedLinkError e)
+                {
+                    System.load(System.getProperty("java.class.path").split(":")[0] + nativLibPath + libName);
+                }
             }
             catch(UnsatisfiedLinkError e)
             {

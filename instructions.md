@@ -76,4 +76,4 @@
    SimpleOpenNI not initialised
    ```
    
-   Copy manually the file libfreenect2/build/lib/libfreenect2-openni2.0.dylib into the SimpleOpenNI processing SimpleOpenNI      library folder.
+   Copy manually the file `libfreenect2/build/lib/libfreenect2-openni2.0.dylib` into the SimpleOpenNI processing SimpleOpenNI      library folder.

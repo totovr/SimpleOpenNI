@@ -61,3 +61,19 @@
   export OPENNI2_REDIST=/usr/local/lib/ni2
   export OPENNI2_INCLUDE=/usr/local/include/ni2
   ```
+
+### Common errors
+
+   If you got this error after run the skeleton example:
+
+   ```
+   SimpleOpenNI Version 1.96
+   After initialization:
+
+   SimpleOpenNI Error: Can't open device:		DeviceOpen using default: no devices found
+
+
+   SimpleOpenNI not initialised
+   ```
+   
+   Copy manually the file libfreenect2/build/lib/libfreenect2-openni2.0.dylib into the SimpleOpenNI processing SimpleOpenNI      library folder.

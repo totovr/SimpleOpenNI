@@ -4,6 +4,8 @@
 
 ##### I copied ```libfreenect.0.1.2.dylib``` from working-with-processing2-simple-openni (in my case ```/libraries/SimpleOpenNI/library/osx/OpenNI2/Drivers/libfreenect.0.1.2.dylib```) to the same folder in the wexstorm project. Also I copied: ```/libraries/SimpleOpenNI/library/osx/OpenNI2/Drivers/libfreenect.0.4.0.dylib``` and ```/libraries/SimpleOpenNI/library/osx/OpenNI2/Drivers/libfreenect.0.1.2.dylib``` from the SimpleOpenNI that works in processing 2
 
+### In the case of Kinect V2 I added ```libfreenect2-openni2.0.dylib``` and ```libfreenect2-openni2.dylib```
+
 ***Antonio Vega Ramirez***
 
 ***Biological Systems Engineering Lab***

@@ -187,9 +187,9 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 ## Images
 
 <img src="Assets/Skeleton_Tracking.png" width="600">
-<img src="Assets/deep.png" width="600">
+<img src="Assets/depth.png" width="600">
 <img src="Assets/point.png" width="600">
-<img src="Assets/deepTwo.png" width="600">
+<img src="Assets/depthTwo.png" width="600">
 
 ## Video
 

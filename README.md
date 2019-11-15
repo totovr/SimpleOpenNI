@@ -43,6 +43,9 @@ Install the last stable version of Processing IDE, you can download it from this
 
 For OSX you just need to unzip the folder and paste the App in the applications folder.
 
+* Repository for Processing V3.5.3:
+
+  [SimpleOpenni for Processing 3.5.3](https://github.com/totovr/SimpleOpenni/tree/Processing_3.5.3).
 
 * Repository for Processing V3.5.2:
 
@@ -184,7 +187,9 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 ## Images
 
 <img src="Assets/Skeleton_Tracking.png" width="600">
-<img src="Assets/deep.png" width="600">
+<img src="Assets/depth.png" width="600">
+<img src="Assets/point.png" width="600">
+<img src="Assets/depthTwo.png" width="600">
 
 ## Video
 
